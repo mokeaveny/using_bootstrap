@@ -1,8 +1,14 @@
-.container-xl {
-	max-width: 1350px;
+body {
+	background-color: #f4f5f6;
 }
 
-.navbar-nav h1 {
+.container-xl {
+	background-color: white;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.navbar-nav h1{
 	font-family: 'Alfa Slab One', cursive;
 	font-size: 5rem;
 	font-weight: 400;
@@ -24,4 +30,9 @@
 	min-height: 50px;
 	margin-bottom: 20px;
 	border-bottom: 2px solid #d6d6d6;
+}
+
+.title-section {
+	font-size: 15px;
+	font-weight: bold;
 }
