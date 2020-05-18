@@ -23,7 +23,6 @@ body {
 	border-left-color: #d9d9d9;
 	border-left-style: solid;
 	width: 100%;
-	-webkit-flex-grow: 1;
 }
 
 #navbar-links {
@@ -35,4 +34,22 @@ body {
 .title-section {
 	font-size: 15px;
 	font-weight: bold;
+}
+
+.title-article-img {
+	font-weight: bold;
+	color: #f72210;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
+
+.title-article {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.article-summary {
+	font-size: 14px;
+	font-weight: lighter;
 }
