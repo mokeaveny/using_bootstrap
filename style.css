@@ -53,3 +53,36 @@ body {
 	font-size: 14px;
 	font-weight: lighter;
 }
+
+.title-pandemic-hero {
+	font-weight: bold;
+	color: black;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	background-color: #c2d4d7;
+	font-size: 12px;
+}
+
+.title-culture-and-travel {
+	font-weight: bold;
+	color: black;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	background-color: #c2d4d7;
+	font-size: 12px;
+}
+
+.small-article {
+	flex: 1;
+}
+
+.title-small-article {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.small-article-summary {
+	font-size: 16px;
+}
