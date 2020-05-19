@@ -87,3 +87,28 @@ body {
 .small-article-summary {
 	font-size: 16px;
 }
+
+.title-debate-article {
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.author-debate-article {
+	font-size: 13px;
+	font-weight: bold;
+}
+
+#debate-top-border {
+	border-top: 4px solid red;
+	padding-top: 20px;
+}
+
+#debate-border {
+	border-top: 2px solid #DCDCDC;
+	border-bottom: 4px solid #1E90FF;
+}
+
+.sponsored-article-title {
+	font-size: 20px;
+	font-weight: bold;
+}
